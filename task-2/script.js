@@ -20,3 +20,4 @@ function getAttributes(){
     }
 
 }
+console.log(getAttributes());
